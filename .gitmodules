@@ -1,0 +1,3 @@
+[submodule "knights"]
+	path = knights
+	url = http://anongit.kde.org/knights
